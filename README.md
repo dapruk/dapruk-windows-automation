@@ -5,7 +5,7 @@ Automate your file organization and maintenance tasks on Windows using PowerShel
 This system includes:
 - 🔃 A **task scheduler** that runs specific scripts on a daily or weekly basis.
 - 📂 A **download sorter** that organizes your Downloads folder by file type.
-- 🧹 A growing set of **file maintenance scripts** (clean up old files, move large files, etc.)
+- 🧹 **Task Logging**: All script output is saved to log files automatically.
 
 ---
 
