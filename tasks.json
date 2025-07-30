@@ -1,0 +1,9 @@
+[
+  {
+    "name": "sort_downloads",
+    "script": "sort_downloads\\sort-downloads.ps1",
+    "schedule": "daily",
+    "active": true,
+    "log": "logs\\sort_files.log"
+  }
+]

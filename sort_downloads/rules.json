@@ -1,0 +1,35 @@
+{
+  "Documents": [
+    "*.pdf", "*.doc", "*.docx", "*.xls", "*.xlsx", "*.ppt", "*.pptx", "*.txt",
+    "*.csv", "*.xml", "*.json", "*.cfg", "*.config", "*.ini", "*.md", "*.pbix", "*.rtf"
+  ],
+  "Images": [
+    "*.jpg", "*.jpeg", "*.png", "*.gif", "*.bmp", "*.tiff", "*.svg", "*.webp", "*.ico", "*.heic"
+  ],
+  "Videos": [
+    "*.mp4", "*.mkv", "*.avi", "*.mov", "*.wmv", "*.flv", "*.webm"
+  ],
+  "Audio": [
+    "*.mp3", "*.wav", "*.ogg", "*.flac", "*.aac", "*.m4a", "*.wma"
+  ],
+  "Code": [
+    "*.js", "*.ts", "*.tsx", "*.jsx", "*.css", "*.scss", "*.sass", "*.html", "*.htm", "*.json",
+    "*.py", "*.rb", "*.go", "*.rs", "*.cpp", "*.c", "*.h", "*.java", "*.kt", "*.php", "*.vb",
+    "*.sql", "*.sh", "*.bat", "*.ps1", "*.psd1", "*.psm1", "*.yaml", "*.yml", "*.xml"
+  ],
+  "Programs": [
+    "*.exe", "*.msi", "*.deb", "*.rpm", "*.appx", "*.apk", "*.dmg", "*.iso", "*.pdb", "*.cdx"
+  ],
+  "Archives": [
+    "*.zip", "*.rar", "*.7z", "*.tar", "*.gz", "*.bz2", "*.xz", "*.tar.gz", "*.tar.bz2"
+  ],
+  "System": [
+    "*.dll", "*.sys", "*.nfo", "*.bin", "*.img", "*.vhd", "*.vhdx"
+  ],
+  "BrowserDownloads": [
+    "*.crdownload", "*.part", "*.download"
+  ],
+  "Misc": [
+    "*.bak", "*.rmskin", "*.url", "*.log", "*.tmp", "*.dat", "*.rne"
+  ]
+}
